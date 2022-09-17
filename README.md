@@ -3,7 +3,7 @@
 With Ignite Timer you can add tasks and the time you will work on them. In addition a task history is provided, allowing the user to check the duration, start date and status of all tasks that have already been added.
 <h2>:movie_camera: Videos</h2>
 
-https://user-images.githubusercontent.com/45208073/190827551-9a9731fa-51fd-4570-83aa-ce16ac098574.mp4
+https://user-images.githubusercontent.com/45208073/190863262-ca4f2834-728f-48fd-9150-17b3ab83d035.mp4
 
 ## :clipboard: Features
  - Add new tasks and their duration;
